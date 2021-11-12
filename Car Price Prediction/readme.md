@@ -12,4 +12,17 @@
 
 ##### The next step would be to follow the instruction given in the Heroku Documentation to deploy a web app.
 
+## How to run the project on local system?
+##### 1. Clone this repository in your local system.
+##### 2. Open your IDE from your project directory and Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt.
+##### 3. Run the app.py file by clicking the run button.
+##### 4. Go to your browser and type http://127.0.0.1:5000/ in the address bar.
+##### Hurray! That's it.
+
+
+## Link to the application
+Check out the live demo: https://car-price-streamlit.herokuapp.com/
+
+##### Note: You might expect delay in loading the website as the webframework used is Streamlit.
+
 
