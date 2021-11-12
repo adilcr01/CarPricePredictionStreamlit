@@ -9,8 +9,6 @@
 ##### The next step would be to follow the instruction given in the Heroku Documentation to deploy a web app.
 
 ## Technologies Used
-![image](https://user-images.githubusercontent.com/93968656/141474467-1b953ec2-4307-4da4-9607-0df46385c579.png)
-![image](https://user-images.githubusercontent.com/93968656/141474443-6149c455-3113-453d-a369-2cb9e8c41f68.png)
-![image](https://user-images.githubusercontent.com/93968656/141474429-9fd2cc5f-110f-4690-9e68-b7cb101dcbbd.png)
-![image](https://user-images.githubusercontent.com/93968656/141474229-0b27e2fd-47eb-4767-af56-d83a84b4a69e.png)
+
+![Flask and python](https://user-images.githubusercontent.com/93968656/141474681-ea61de53-c27e-4818-b0a8-379371f84da0.png)
 
