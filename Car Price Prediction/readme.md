@@ -16,9 +16,11 @@ Car Price Dataset https://www.kaggle.com/mdejazulhassan/vehicle-dataset-from-car
 
 ![car price 2](https://user-images.githubusercontent.com/93968656/141476137-23717d3f-1412-4dff-a62a-fbe6aef1c292.png)
 
-## Technologies Used
+## Tech Stacks
+##### Programming Language : Python
+##### WebFramework: Steamlit
+##### Machine Learning Library: Numpy, Pandas, sklearn
 
-![Flask and python](https://user-images.githubusercontent.com/93968656/141474681-ea61de53-c27e-4818-b0a8-379371f84da0.png)
 
 ## Deployement on Heroku
 
