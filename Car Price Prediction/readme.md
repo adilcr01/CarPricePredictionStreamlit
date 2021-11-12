@@ -1,5 +1,11 @@
 # Used Car Price Prediction Using Machine Learning
+## Screenshot
+##### Homepage
+![car price 1](https://user-images.githubusercontent.com/93968656/141476120-8beb00c4-0853-43d0-9a39-c724864fc257.png)
 
+##### Results
+
+![car price 2](https://user-images.githubusercontent.com/93968656/141476137-23717d3f-1412-4dff-a62a-fbe6aef1c292.png)
 
 ## Technologies Used
 
