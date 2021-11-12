@@ -1,4 +1,7 @@
 # Used Car Price Prediction Using Machine Learning
+## Car-Price Prediction
+This repository consists of files required for end to end implementation and deployment of Machine Learning Car Price Prediction web application created with Flask and deployed on the Heroku platform.
+
 
 ## Dataset used
 Car Price Dataset https://www.kaggle.com/mdejazulhassan/vehicle-dataset-from-cardekho/data
