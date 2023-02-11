@@ -39,8 +39,8 @@ Car Price Dataset https://www.kaggle.com/mdejazulhassan/vehicle-dataset-from-car
 
 
 ## Link to the application
-Check out the live demo: http://54.162.96.228:8501/
+Check out the live demo: [Link](http://54.162.96.228:8501/)
 
 
-
-
+## Also deployed using Streamlit 
+[Link](https://adilcr01-carpricepredictionstreamlit-app-gzp6ku.streamlit.app/)
