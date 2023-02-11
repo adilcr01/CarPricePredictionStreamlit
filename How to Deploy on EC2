@@ -1,0 +1,20 @@
+---------------- Commands ---------------- 
+Commands are based on Amazon Machine Image (AMI)
+# Installation Commands
+sudo su
+yum update
+yum install git
+python3
+exit()              to exit python
+git clone [YOUR Repository]
+
+yum install python3-pip
+python3 -m pip              To check if pip is installed or not
+
+ls               ----------> to check Repo Name
+cd [YOUR Repository]
+python3 -m pip install -r requirements.txt
+
+python3 -m pip install -U scikit-learn         As sklearn didn't installed properly
+python3 -m streamlit run app.py                App will run till terminal is on.
+nohup python3 -m streamlit run app.py          For Continuous running of app  Even if terminal is closed.
