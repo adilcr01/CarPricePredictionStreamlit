@@ -25,7 +25,8 @@ Car Price Dataset https://www.kaggle.com/mdejazulhassan/vehicle-dataset-from-car
 ## Deployement on Amazon AWS
 
 ##### Login or signup in order to create virtual app. You can either connect your github profile to clone it or download any cli to manually deploy this project from local.
-![image](https://user-images.githubusercontent.com/93968656/141474123-3dc0d678-af4b-4527-92af-17d05a5d0481.png)
+![image](https://user-images.githubusercontent.com/93968656/218246816-ec567751-e944-448e-b0dc-636f699d167b.png)
+
 
 ##### The next step would be to follow the instruction given in the AWS Documentation to deploy a web app.
 
